@@ -10,7 +10,7 @@ httpcore==0.9.1
 httpx==0.13.3
 hyperframe==5.2.0
 idna==2.10
-lxml==4.5.2
+lxml==4.6.2
 pyaes==1.6.1
 pyasn1==0.4.8
 rfc3986==1.4.0
