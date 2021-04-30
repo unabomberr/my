@@ -14,7 +14,7 @@ lxml==4.5.2
 pyaes==1.6.1
 pyasn1==0.4.8
 rfc3986==1.4.0
-rsa==4.6
+rsa==4.7
 sniffio==1.1.0
 soupsieve==2.0.1
 Telethon==1.15.0
